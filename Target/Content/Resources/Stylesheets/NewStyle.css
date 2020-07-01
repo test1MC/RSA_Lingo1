@@ -1,0 +1,160 @@
+/* MadCap Table Style: */
+
+/*<meta Version="10" />*/
+
+mcTableStyle
+{
+	name: NewStyle;
+	border-collapse: separate;
+	border-left-style: groove;
+	border-left-width: 5px;
+	border-left-color: #4682b4;
+	border-right-style: groove;
+	border-right-width: 5px;
+	border-right-color: #4682b4;
+	border-top-style: groove;
+	border-top-width: 5px;
+	border-top-color: #4682b4;
+	border-bottom-style: groove;
+	border-bottom-width: 5px;
+	border-bottom-color: #4682b4;
+	max-id: 3;
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+	text-align: center;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Header1;
+	id: 2;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	size: 29px;
+}
+
+mcTableFootStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Footer1;
+	id: 3;
+}
+
+
+/* Table */
+
+.TableStyle-NewStyle
+{
+	border-collapse: separate;
+	border-left-style: groove;
+	border-left-color: #4682b4;
+	border-left-width: 5px;
+	border-right-style: groove;
+	border-right-color: #4682b4;
+	border-right-width: 5px;
+	border-top-style: groove;
+	border-top-color: #4682b4;
+	border-top-width: 5px;
+	border-bottom-style: groove;
+	border-bottom-color: #4682b4;
+	border-bottom-width: 5px;
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+	border-spacing: 0px 0px;
+}
+
+/* Head */
+
+.TableStyle-NewStyle thead tr:nth-child(1n+1) th
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-NewStyle tbody tr .TableStyle-NewStyle-Header1
+{
+	
+}
+
+/* Foot */
+
+.TableStyle-NewStyle tfoot tr:nth-child(1n+1) td
+{
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-NewStyle tbody tr .TableStyle-NewStyle-Footer1
+{
+	
+}
+
+/* Body */
+
+.TableStyle-NewStyle tbody tr:nth-child(1n+1) td
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-NewStyle tbody tr .TableStyle-NewStyle-Body1
+{
+	
+}
+
+/* Column */
+
+.TableStyle-NewStyle tr th:nth-child(1n+1)
+{
+	text-align: center;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-NewStyle tr td:nth-child(1n+1)
+{
+	text-align: center;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-NewStyle tr .TableStyle-NewStyle-Column1
+{
+	text-align: center;
+}
+
+

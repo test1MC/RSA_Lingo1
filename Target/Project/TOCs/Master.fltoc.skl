@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="砻קยด1ตว融" Link="/Content/Wide Field Astrophotography.htm">
+        <TocEntry Title="砻קยด2ตว融" Link="/Content/Wide Field Images/Sagittarius.htm" />
+        <TocEntry Title="砻קยด3ตว融" Link="/Content/Wide Field Images/Sagittarius M20 Region.htm" />
+        <TocEntry Title="砻קยด4ตว融" Link="/Content/Wide Field Images/Orion Wide Field.htm" />
+        <TocEntry Title="砻קยด5ตว融" Link="/Content/Wide Field Images/Orion.htm" />
+        <TocEntry Title="砻קยด6ตว融" Link="/Content/Wide Field Images/Orion at 75MM.htm" />
+        <TocEntry Title="砻קยด7ตว融" Link="/Content/Wide Field Images/Leo Trio Wide Field.htm" />
+        <TocEntry Title="砻קยด8ตว融" Link="/Content/Wide Field Images/VirgoCluster.htm" />
+        <TocEntry Title="砻קยด9ตว融" Link="/Content/Wide Field Images/Rho Ophiuchi.htm" />
+        <TocEntry Title="砻קยด10ตว融" Link="/Content/Pleiades.htm" />
+    </TocEntry>
+    <TocEntry Title="砻קยด11ตว融">
+        <TocEntry Title="砻קยด12ตว融" Link="/Content/ED80 Images/M42- The Great Orion Nebula.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/ED80 Images/NGC 7000- The North America Nebula.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+</CatapultToc>

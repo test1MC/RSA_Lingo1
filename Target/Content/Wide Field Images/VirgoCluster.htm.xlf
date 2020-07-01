@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="VirgoCluster.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="VirgoCluster.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">14</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">1</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.7479.15313"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Virgo Cluster</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Virgo Cluster</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Virgo Cluster</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Virgo Cluster</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Telescope or Lense: Canon EF- 75-300mm (105 mm @f6.3)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Telescope or Lense: Canon EF- 75-300mm (105 mm @f6.3)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Designation: Virgo Super Clusters</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Designation: Virgo Super Clusters</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Mount: Ioptron Sky Tracker</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mount: Ioptron Sky Tracker</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Constellation: Virgo</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Constellation: Virgo</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Camera: Canon T3i (600D) unmodified</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Camera: Canon T3i (600D) unmodified</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Image type: Galaxies</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Image type: Galaxies</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Guiding:N/A</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Guiding:N/A</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Image date(s): May 30, 2014</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Image date(s): May 30, 2014</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Exposure: 38 @ 2 minutes, 30 seconds (1 hour, 35 minutes)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Exposure: 38 @ 2 minutes, 30 seconds (1 hour, 35 minutes)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Location: Armpit Observatory (Tierra Del Sol, Ca.)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Location: Armpit Observatory (Tierra Del Sol, Ca.)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Processing:Deep Sky tracker, Gimp 2, Photoshop Elements</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Processing:Deep Sky tracker, Gimp 2, Photoshop Elements</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Conditions: clear, dry</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Conditions: clear, dry</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Notes</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Notes</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

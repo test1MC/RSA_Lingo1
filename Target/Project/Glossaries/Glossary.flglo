@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0">
+    <Terms>
+      <Term>My Term</Term>
+    </Terms>
+    <Definition>My definition</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Empty term</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

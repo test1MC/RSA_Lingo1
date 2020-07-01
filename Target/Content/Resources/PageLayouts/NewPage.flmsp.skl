@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="83" MadCap:lastWidth="1017" class="radialGradiant" xml:space="preserve">
+    <head>
+    </head>
+    <body class="MasterpageBG">
+        <MadCap:bodyProxy />
+        <p>&#160;</p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="center"><MadCap:variable name="Variables.Copyright" />
+                </p>
+            </MadCap:pageFooter>
+        </p>
+    </body>
+</html>

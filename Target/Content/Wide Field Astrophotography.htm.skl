@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="556" MadCap:lastWidth="804" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1 class="center">砻קยด2ตว融</h1>
+        <p class="center" style="color: #4f99ff;"><span style="color: #4f99ff;">砻קยด3ตว融</span></p>
+        <p>&#160;</p>
+        <p class="center">砻קยด4ตว融</p>
+        <p class="center">&#160;</p>
+        <p class="center">&#160;</p>
+        <p class="center">&#160;</p>
+        <p class="center">&#160;</p>
+        <p class="center">&#160;</p>
+        <p class="center">&#160;</p>
+        <MadCap:slideshow MadCap:Navigation="Thumbnails" MadCap:SlideWidth="600px" MadCap:ShowCaptions="True" class="BG" MadCap:AutoStart="True" MadCap:Mode="fade" MadCap:AdaptiveHeight="True" MadCap:Responsive="True" MadCap:RandomStart="False" MadCap:AutoControls="True">
+            <MadCap:slide title="砻קยด5ตว融" MadCap:thumbnail-src="Resources/Images/upper_Sag.jpg">
+                <p><a href="Wide Field Images/Sagittarius.htm"><img src="Resources/Images/upper_Sag.jpg" style="width: 204px;height: 258px;" /></a>
+                </p>
+            </MadCap:slide>
+            <MadCap:slide title="砻קยด6ตว融" MadCap:thumbnail-src="Resources/Images/Untitled-1.jpg">
+                <p><a href="Wide Field Images/Orion Wide Field.htm"><img src="Resources/Images/Untitled-1.jpg" style="width: 374px;height: 258px;" /></a>
+                </p>
+            </MadCap:slide>
+            <MadCap:slide title="砻קยด7ตว融" MadCap:thumbnail-src="Resources/Images/LeoTrioFull.png">
+                <p><a href="Wide Field Images/Leo Trio Wide Field.htm"><img src="Resources/Images/LeoTrio.png" style="width: 463px;height: 258px;" /></a>
+                </p>
+            </MadCap:slide>
+            <MadCap:slide title="砻קยด8ตว融" MadCap:thumbnail-src="Resources/Images/VirgoLabeled.png" MadCap:thumbnail-title="砻קยด9ตว融">
+                <p><a href="Wide Field Images/VirgoCluster.htm" target="_self"><img src="Resources/Images/VirgoLabeled.png" title="砻קยด1ตว融" style="width: 286px;height: 255px;" /></a>
+                </p>
+            </MadCap:slide>
+            <MadCap:slide title="砻קยด10ตว融" MadCap:thumbnail-src="Resources/Images/jimprocess.jpg">
+                <p><a href="Wide Field Images/Sagittarius M20 Region.htm"><img src="Resources/Images/jimprocess.jpg" style="width: 455px;height: 306px;" /></a>
+                </p>
+            </MadCap:slide>
+            <MadCap:slide title="砻קยด11ตว融" MadCap:thumbnail-src="Resources/Images/25689537913_5112515e15_o.png">
+                <p><a href="Wide Field Images/Rho Ophiuchi.htm"><img src="Resources/Images/25689537913_5112515e15_o.png" style="width: 382px;height: 254px;" /></a>
+                </p>
+            </MadCap:slide>
+        </MadCap:slideshow>
+    </body>
+</html>

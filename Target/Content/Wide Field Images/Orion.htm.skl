@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="345" MadCap:lastWidth="991" xml:space="preserve">
+    <head>
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 class="center">砻קยด1ตว融</h1>
+        <p>&#160;</p>
+        <p><MadCap:glossaryTerm glossTerm="Glossary.Term1">砻קยด2ตว融</MadCap:glossaryTerm></p>
+        <table style="width: 100%;border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-left-style: outset;border-left-width: 10px;border-left-color: #84b7dc;border-right-style: outset;border-right-width: 10px;border-right-color: #84b7dc;border-top-style: outset;border-top-width: 10px;border-top-color: #84b7dc;border-bottom-style: outset;border-bottom-width: 10px;border-bottom-color: #84b7dc;border-collapse: collapse;margin-left: 0;margin-right: auto;">
+            <col style="width: 454px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>砻קยด3ตว融</td>
+                    <td>砻קยด4ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด5ตว融</td>
+                    <td>砻קยด6ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด7ตว融</td>
+                    <td>砻קยด8ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด9ตว融</td>
+                    <td>砻קยด10ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด11ตว融</td>
+                    <td>砻קยด12ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด13ตว融</td>
+                    <td>砻קยด14ตว融</td>
+                </tr>
+                <tr>
+                    <td colspan="2">&#160;<p>砻קยด15ตว融</p></td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

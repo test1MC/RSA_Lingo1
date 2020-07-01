@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/PageLayouts/NewPage.flmsp"
+  GetLatestBeforeCompile="true"
+  EnableFeedbackService="false"
+  LiveHelpServer="http://dspencer01/Pulse/"
+  LiveHelpKey="yfkd1-qoo67-04206-11dc7-4c53a-4e915-1550d-acea8"
+  InsertMOTW="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"
+  Skin="/Project/Skins/topnav.flskn"
+  PartialWordSearch="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

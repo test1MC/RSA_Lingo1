@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Wide Field Astrophotography.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="Wide Field Astrophotography.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">13</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">1</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.7479.15313"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Vrigo Super Cluster</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="img">Vrigo Super Cluster</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Wide Field Astrophotography</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Wide Field Astrophotography</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>By Don Spencer</source><seg-source><mrk
+            mtype="seg"
+            mid="1">By Don Spencer</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Wide Field Astrophotography has been a real fascination of mine. My intention is to shoot as many different objects has I can through my two camera lenses over the next year.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Wide Field Astrophotography has been a real fascination of mine.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">My intention is to shoot as many different objects has I can through my two camera lenses over the next year.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-madcap:slide-title"
+        phase-name="pretrans"><source>Upper Sagittarius</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Upper Sagittarius</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-madcap:slide-title"
+        phase-name="pretrans"><source>Wide Field Orion</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Wide Field Orion</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-madcap:slide-title"
+        phase-name="pretrans"><source>Leo Trio in Wide Field</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Leo Trio in Wide Field</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-madcap:slide-title"
+        phase-name="pretrans"><source>Virgo Super Cluster of Galaxies</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Virgo Super Cluster of Galaxies</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-madcap:slide-madcap:thumbnail-title"
+        phase-name="pretrans"><source>Virgo Super Cluster</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Virgo Super Cluster</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-madcap:slide-title"
+        phase-name="pretrans"><source>M8/M20 Region in Sagittarius</source><seg-source><mrk
+            mtype="seg"
+            mid="1">M8/M20 Region in Sagittarius</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-madcap:slide-title"
+        phase-name="pretrans"><source>RHO Ophiuchi</source><seg-source><mrk
+            mtype="seg"
+            mid="1">RHO Ophiuchi</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

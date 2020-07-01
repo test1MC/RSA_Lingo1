@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Leo Trio</Key>
+  <OldValue>Leo Trio</OldValue>
+  <NewValue>Leo Trio</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Orion</Key>
+  <OldValue>Orion</OldValue>
+  <NewValue>Orion</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Rho Ophiuchi</Key>
+  <OldValue>Rho Ophiuchi</OldValue>
+  <NewValue>Rho Ophiuchi</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Sagittarius</Key>
+  <OldValue>Sagittarius</OldValue>
+  <NewValue>Sagittarius</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Virgo Cluster</Key>
+  <OldValue>Virgo Cluster</OldValue>
+  <NewValue>Virgo Cluster</NewValue>
+</Entry>
+</StringMap>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="c7b1cb6a-1519-4e1e-a042-7683bcdc48e8">
+    <ProjectFile Source="Target/Armpit Astronomy.flprj" Target="Target/Armpit Astronomy.flprj" />
+</LingoProject>

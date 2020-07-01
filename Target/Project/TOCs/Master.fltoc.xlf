@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Master.fltoc"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-fltoc"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="Master.fltoc.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">12</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.7479.15313"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Wide field Images</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Wide field Images</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Wide field upper Sagittarius</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Wide field upper Sagittarius</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Sagittarius M20 Region</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Sagittarius M20 Region</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Orion Wide Field</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Orion Wide Field</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Orion</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Orion</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Orion at 75MM</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Orion at 75MM</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Leo Trio Wide Field</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Leo Trio Wide Field</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Virgo Cluster</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Virgo Cluster</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Rho Ophiuchi</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Rho Ophiuchi</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Pleiades</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Pleiades</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>ED80 Images</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">ED80 Images</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>M42- The Great Orion Nebula</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">M42- The Great Orion Nebula</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

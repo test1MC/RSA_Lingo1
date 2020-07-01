@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Orion Wide Field.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="Orion Wide Field.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">22</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">1</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.7479.15313"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Orion</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Orion</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Orion Wide Field</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Orion Wide Field</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Telescope or Lense: Canon EF- 75-300mm (100 mm @f5.0)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Telescope or Lense: Canon EF- 75-300mm (100 mm @f5.0)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Designation: Orion Wide Field</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Designation: Orion Wide Field</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Mount: Ioptron Sky Tracker</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mount: Ioptron Sky Tracker</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Constellation: Orion</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Constellation: Orion</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Camera: Canon T3i (600D) unmodified</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Camera: Canon T3i (600D) unmodified</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Image type: Nebula</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Image type: Nebula</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Guiding: N/A</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Guiding: N/A</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Image date(s): 2/23/2014</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Image date(s): 2/23/2014</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Exposure: 12 x 90 Seconds (18 Minutes)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Exposure: 12 x 90 Seconds (18 Minutes)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Location: Armpit Observatory (My Driveway, El Cajon, Ca.)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Location: Armpit Observatory (My Driveway, El Cajon, Ca.)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Processing:Deep Sky tracker, Gimp 2, Photoshop Elements</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Processing:Deep Sky tracker, Gimp 2, Photoshop Elements</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Conditions:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Conditions:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Notes:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Notes:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>Shot in very bad light pollution (<bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../Resources/Images/ElCjnCAlp.gif" target="_popup"&gt;</bpt>Click to see map<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Shot in very bad light pollution (<bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../Resources/Images/ElCjnCAlp.gif" target="_popup"&gt;</bpt>Click to see map<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>Dew caused 15 minutes of images to become bad</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dew caused 15 minutes of images to become bad</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>This was also the first night using the "Interval Timer" on the Canon. Very happy I no longer have to sit and fire off each sub by hand.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This was also the first night using the "Interval Timer" on the Canon.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Very happy I no longer have to sit and fire off each sub by hand.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>Each sub had an additional dark taken and applied by the camera. Will take separate dark’s from this point forward.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Each sub had an additional dark taken and applied by the camera.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Will take separate dark’s from this point forward.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
